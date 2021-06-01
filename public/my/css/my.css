@@ -1,8 +1,9 @@
 
 .increment:hover{
-    background-color: azure;
+    background-color: rgb(201, 214, 248);
+    text-shadow: 4px 4px 5px rgb(248, 248, 248);
     font-size:x-large;
-    
+    box-shadow: 14px 11px rgba(156, 156, 224, 0.2);
 }
 p{
     font-size: medium;
@@ -22,17 +23,17 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     font-style: initial;
     font-weight: bolder;
-    color: blue;
+    color: rgb(27, 130, 190);
     padding-left: 20px;
 }
 h3{
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    color: cadetblue;
+    color: rgb(140, 167, 235);
     padding-left: 4ch;
 }
 body {
-    background-color:aliceblue;
+    background-image: linear-gradient(rgba(189, 156, 233, 0.5), rgba(197, 184, 243, 0.5), rgba(187, 239, 243, 0.5));
 }
 
